@@ -1,0 +1,3 @@
+fastapi~=0.112
+fastapi-cli==0.0.5
+uvicorn~=0.30
